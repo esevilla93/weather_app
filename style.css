@@ -1,0 +1,57 @@
+body {
+    background-image: url("https://t3.ftcdn.net/jpg/02/11/52/42/240_F_211524227_Ett8aboQvVnROAFtqu3S1pW99Y3Th9vm.jpg") ;
+}
+
+.text-center {
+    color: skyblue;
+    background-color: whitesmoke;
+}
+
+
+
+.col-md-4 {
+    padding: 10px;
+    text-align: center;
+    color: skyblue;
+    background-color: whitesmoke;
+
+} 
+
+
+.card {
+    padding: 10px;
+    margin-bottom: 10px;
+} 
+
+ #search-history {
+    height: auto;
+    width: 100%;
+    text-align: center;
+    font-size: 15px;
+}
+
+.city-btn {
+    background-color: skyblue;
+    opacity: 50%;
+}
+
+
+.form-control {
+    padding:4px 20px;
+    margin: 5px;
+    display: block;
+}
+
+.btn-primary{
+    padding: 5px;
+    margin: 5px;
+    display: block;
+    width: 100%;
+    align-items: flex-start;
+
+}
+
+.uv-index {
+    background-color: red;
+} 
+
